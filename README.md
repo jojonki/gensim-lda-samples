@@ -1,4 +1,4 @@
-# gensim-lda-samples
+# gensim LDA samples
 
 ## Corpus
 - [解析済みブログコーパス (4.2MB)](http://nlp.ist.i.kyoto-u.ac.jp/kuntt/) 
@@ -17,3 +17,6 @@ topic[3]: 0.014*"携帯" + 0.013*"京都" + 0.010*"電話" + 0.008*"観光" + 0.
 Topic counts:
 {'Kyoto': [15, 15, 28, 33], 'Gourmet': [8, 19, 16, 14], 'Keitai': [7, 47, 10, 15], 'Sports': [12, 5, 2, 3]}
 ```
+
+## References
+- [LDAでブログ記事のトピックを抽出・分類する](https://ohke.hateblo.jp/entry/2017/11/14/230000)
